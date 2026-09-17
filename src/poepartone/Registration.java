@@ -101,3 +101,4 @@ public class Registration {// start of class
         }
     }
 }
+// Commit 2 - Registration logic
